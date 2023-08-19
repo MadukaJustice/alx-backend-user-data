@@ -1,1 +1,1 @@
-# Custom User Authentication Servic
+# Custom User Authentication Service
